@@ -8,7 +8,7 @@
     text-decoration: none;
 }
 :root{
-    --main-color: #ff702a;
+    --main-color: #ff9100;
     --text-color: #fff;
     --big-font:5rem;
     --h2-font:2.25rem;
@@ -19,7 +19,7 @@
     color: #fff;
 }
 body{
-    background: url(/downbg2.jpg);
+    background: url(finalbg.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -37,7 +37,7 @@ body{
 }
 .Resturan_name{
     position: absolute;
-    top: 10%;
+    top: 11%;
     left: 19%;
     color: #ff702a;
     transform: translate(-50%, -50%);
@@ -51,7 +51,7 @@ body{
     font-weight: 400;
     color: white;
     position: absolute;
-    top: 40%;
+    top: 52%;
     left: 35%;
     transform: translate(-50%, -50%);
     text-align: left;
@@ -106,7 +106,7 @@ body{
   
   }
   .DishoftheDay{
-    color: var(--main-color);
+    color: rgb(255, 140, 0);
     font-weight: 400; 
     margin: 40px 10px;
     font-size: 500%;
@@ -116,8 +116,8 @@ body{
     font-weight: 300;
     color: var(--main-color);
     margin: 50px 20px;
-    font-size: 300%;
-    font-family: bodoni mt;
+    font-size: 500%;
+    font-family: french script mt;
     
   }
   .items{
@@ -126,7 +126,7 @@ body{
     color: #fff;
     margin: 35px 30px;
   }
-  #p1,#p2,#p3,#p4,#p5,#p6,#p7{
+  #p1,#p2,#p3,#p4,#p5,#p6,#p7,#p8,#p9{
     margin: 15px 20px;
     cursor: pointer;
     font-family:'Times New Roman', serif;
