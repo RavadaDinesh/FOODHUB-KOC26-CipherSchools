@@ -8,7 +8,7 @@
     text-decoration: none;
 }
 :root{
-    --main-color: #ff9100;
+    --main-color: rgb(72, 255, 72);
     --text-color: #fff;
     --big-font:5rem;
     --h2-font:2.25rem;
@@ -90,7 +90,7 @@ body{
   
 }
 .navbar a:hover{
-    color: var(--main-color);
+    color: #ff702a;
     transition: .4s;
 }
 .container{
@@ -106,7 +106,7 @@ body{
   
   }
   .DishoftheDay{
-    color: rgb(255, 140, 0);
+    color: cyan;
     font-weight: 400; 
     margin: 40px 10px;
     font-size: 500%;
@@ -172,7 +172,7 @@ body{
 }
 .Feedback{
     margin: 10px 10px;
-    color: #ff702a;
+    color: orangedred;
     font-size: 250%;
     font-weight: 550;
     position: absolute;
@@ -181,11 +181,11 @@ body{
     left: 250;
 }
 .fb{
-    color: #ff702a;
+    color: orangered;
     font-family: cosmic sans-serif;
 }
 .fb:hover{
-    color: #ff702a;
+    color: orangered;
     transition: .4s;
 }
 .offer1:hover,.offer2:hover,.offer3:hover{
